@@ -1,0 +1,9 @@
+.input input {
+    height: 50px;
+    width: 350px;
+    font-size: 2em;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    box-shadow: 0 3px 8px rgb(155, 154, 154);
+}
